@@ -1,3 +1,11 @@
 theme   : jekyll-theme-minimal
 locale  : "en-US"
 title   : "mmmanica"
+
+author:
+  name             : "marius marius"
+  avatar           : #/assets/images/finn.jpg
+  bio              : "DFIR"
+  location         : "Bucharest"
+  email            : test@gmail.com
+  links:
